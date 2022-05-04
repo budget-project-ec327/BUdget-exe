@@ -5,4 +5,4 @@ Navigate to "BUdgetProjectFinal.exe".
 
 Run "BUdgetProjectFinal.exe" within the folder to start application.
 
-NOTE: Application currently Runs on windows.
+NOTE: Application currently runs on windows.
