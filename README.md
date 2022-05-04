@@ -3,6 +3,6 @@ Clone Repository to local machine.
 
 Navigate to "BUdgetProjectFinal.exe".
 
-Run "BUdgetProjectFinal.exe" to start application.
+Run "BUdgetProjectFinal.exe" within the folder to start application.
 
 NOTE: Application currently Runs on windows.
